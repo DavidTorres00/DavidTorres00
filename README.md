@@ -1,3 +1,4 @@
+
 <h1 align="center">David Torres</h1>
 <p align="center">
 <em>Fullstack & Mobile Developer · Flutter · Django</em>
@@ -18,8 +19,8 @@
 Fullstack developer specialized in **Flutter** and **Django**, building production mobile apps and backend platforms for government, corporate, and large-scale event clients — native app
 migration, payment integrations, CFDI/SAT electronic invoicing, real-time QR validation.
 
-Also building **Cē**, my own digital engineering venture: consulting + in-house products, from architecture to production deployment. AI-native workflow — Claude API integrated into
-products, Claude Code as part of daily engineering.
+Also building **Cē**, my own digital engineering venture: consulting + in-house products, from architecture to production deployment. AI-native engineering practice — agent-assisted
+development (Claude Code) built into daily work, from planning to shipping; Claude API integrated directly into products where it earns its cost.
 
 ---
 
