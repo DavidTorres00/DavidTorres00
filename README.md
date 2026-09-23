@@ -1,4 +1,3 @@
-
 <h1 align="center">David Torres</h1>
 <p align="center">
 <em>Fullstack & Mobile Developer · Flutter · Django</em>
@@ -9,27 +8,24 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 ---
 
 ## About Me
 
-Fullstack developer specialized in **Flutter** and **Django**, building production mobile apps and backend platforms for government, corporate, and large-scale event clients — native app
-migration, payment integrations, CFDI/SAT electronic invoicing, real-time QR validation.
+**Fullstack Developer** specialized in **Flutter** and **Django**, building production mobile apps and backend platforms for government, corporate, and large-scale event clients. I have hands-on experience with native app migration, payment integrations, CFDI/SAT electronic invoicing, and real-time QR validation.
 
-Also building **Cē**, my own digital engineering venture: consulting + in-house products, from architecture to production deployment. AI-native engineering practice — agent-assisted
-development (Claude Code) built into daily work, from planning to shipping; Claude API integrated directly into products where it earns its cost.
+I also run **Cē**, my own digital engineering venture: consulting + in-house products, from architecture to production deployment. I follow an **AI-native engineering practice**, where agent-assisted development is built into my daily workflow — from planning to shipping. I integrate the **Claude API** directly into products where it delivers clear value.
 
 ---
 
 ## Featured Projects
 
-- **Cē** — Digital engineering venture (consulting + in-house products). Public landing + internal client/ops panel. `FastAPI · React · PostgreSQL`
+- **Cē** — Digital engineering venture (consulting + in-house products). Public landing page + internal client/ops panel. `FastAPI · React · PostgreSQL`
 - **Cē POS** — Multi-tenant point-of-sale system for retail businesses, built under Cē. Automated client provisioning, live production deployment. `FastAPI · React · PostgreSQL`
-- **RAG Assistant Demo** — Analytics dashboard with a Claude-powered conversational assistant over real data: statistical decline projection, NPV/IRR investment case. `FastAPI · React ·
-Claude API`
+- **RAG Assistant Demo** — Analytics dashboard with a conversational assistant over real data: statistical decline projection, NPV/IRR investment case. `FastAPI · React · Claude API`
 
 ---
 
